@@ -1,4 +1,4 @@
-console.log(`
+console.log(`https://memepedia.ru/ebat-ty-lox/
 
                                                                                                                 .,,,*,*****/////**..
                                                                                                      .,//(#####(((////////////////**********,.
