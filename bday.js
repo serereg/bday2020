@@ -1,5 +1,6 @@
 console.log(`https://memepedia.ru/ebat-ty-lox/
 some useless string
+some useful string
 
                                                                                                                 .,,,*,*****/////**..
                                                                                                      .,//(#####(((////////////////**********,.
